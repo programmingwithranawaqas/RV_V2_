@@ -14,11 +14,7 @@ import android.view.ViewGroup;
 
 import java.util.ArrayList;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link ChatsFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class ChatsFragment extends Fragment {
 
     RecyclerView rvChats;
